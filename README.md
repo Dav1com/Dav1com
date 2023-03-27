@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dav1com, a 3rd year student of Computer Engineering at [Facultad de Ciencias Físicas y Matemáticas](https://ing.uchile.cl) of Universidad de Chile
+- 👋 Hi, I’m @Dav1com, a 4th year student of Computer Engineering at [Facultad de Ciencias Físicas y Matemáticas](https://ing.uchile.cl) of Universidad de Chile
 
 <!---
 Dav1com/Dav1com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
